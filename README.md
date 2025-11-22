@@ -1,6 +1,6 @@
 # Echoes in the Static
 
-A browser-based text horror game built with React, Tailwind CSS, and Framer Motion.
+A browser-based text horror game created for BDO's AI spooky story contest (Unsubmitted). Built with React, Tailwind CSS, and Framer Motion.
 
 ## Story
 
